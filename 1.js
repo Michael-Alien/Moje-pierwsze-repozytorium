@@ -7,7 +7,6 @@ const people = [
     firstName: "Mateo",
     lastName: "Loza",
   },
-  
 ];
 
 function makeNickname(firstName, lastName) {
